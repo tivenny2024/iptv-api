@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-21 18:28:17,http://23.237.228.134/live5/CCTV2.m3u8$订阅源
+2026-02-23 18:52:45,http://23.237.228.134/live5/CCTV2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8$订阅源
@@ -22,11 +22,12 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8$订阅源
 浙江卫视,http://69.30.246.194/live/zjws.m3u8$订阅源
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8$订阅源
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
-湖南卫视,http://69.30.246.194/live/hnws.m3u8$订阅源
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8$订阅源
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$订阅源
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+湖南卫视,http://69.30.246.194/live/hnws.m3u8$订阅源
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 北京卫视,http://23.237.228.134/live3/beijing.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
@@ -36,9 +37,9 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8$订阅源
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://69.30.246.194/live/dfws.m3u8$订阅源
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 东南卫视,http://23.237.228.134/live8/gansu.m3u8$订阅源
@@ -66,6 +67,7 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8$订阅源
 青海卫视,http://23.237.228.134/live8/shandong.m3u8$订阅源
+青海卫视,http://223.145.224.76:8000/udp/239.76.254.132:9000$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
@@ -79,7 +81,6 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009$订阅源
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
-西藏卫视,http://118.72.48.240:888/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8$订阅源
